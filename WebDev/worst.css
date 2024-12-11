@@ -1,0 +1,79 @@
+  body {
+    background-image: url("9489020.jpg");
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: 1600px 1000px ;
+    text-align: center;
+    font-family: "Creepster", system-ui;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight:400 ;
+    text-shadow: 2px 3px 4px #000000;
+    font-style: normal;
+    color: rgb(171, 6, 6);
+    margin-top: 40px;
+}
+p{color: #f6eded;
+    padding-left: 10px;
+    text-shadow: 3px 3px 3px #000000;
+
+}
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-color: rgba(72, 4, 4, 0.459);
+    cursor: pointer;
+    background-color: rgb(46, 2, 2);
+    font-family: "Creepster", system-ui;
+    backdrop-filter: blur(4px);
+    font-size: medium;
+    color: white;
+    
+}
+
+button:hover {
+    background-color: #521212;
+    box-shadow: 2px 4px 4px rgb(4, 4, 4);
+    
+}
+
+#advice {
+    border: #850b0b;
+
+    font-family: "Creepster", system-ui;
+
+    box-sizing: content-box;
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: #f6eded;
+}
+.container {
+    
+    backdrop-filter: blur(4px);
+    backdrop-filter: drop-shadow(2px);
+    border: 2px solid #faf7f77b;
+    padding: 5px; 
+    margin: 40px; 
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #f6eded5b;
+    border-radius: 10px;
+  }
+
+select {
+    backdrop-filter: blur(4px);
+    backdrop-filter: drop-shadow(2px);
+    font-family: "Creepster", system-ui;
+    text-align: center;
+    border-radius: 10px;
+    color: rgb(88, 8, 8);
+    padding: 10px;
+    font-size: medium;
+    margin-top: 20px;
+    background-color: #cfc2c2a3;
+    
+}
+
